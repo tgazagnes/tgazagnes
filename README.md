@@ -1,6 +1,6 @@
 ### Welcome, dear data enthusiast 👋
 
-👤 I'm a data generalist with a former experience in consulting and project management. 
+👤 I'm a data consultant @ Datalyo
 
 ⭐️ Here is where I try to learn and contribute to impactful projects and services.
 
